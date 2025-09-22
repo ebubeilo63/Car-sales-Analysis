@@ -23,7 +23,20 @@ www.kaggle.com/dataset
 
 ## Table Outlay:
 
-First Three Records:
+|Car_id	Date	|Customer Name	|Gender	|Annual Income	|Dealer_Name	|Company	Model	|Engine	|Transmission	|Color	|Price ($)	|Dealer_No 	|Body Style	|Phone	|Dealer_Region	|Year|
+
+C_CND_000001	1/2/2022	Geraldine	Male	13500	Buddy Storbeck's Diesel Service Inc	Ford	Expedition	DoubleÃ‚Â Overhead Camshaft	Auto	Black	26000	06457-3834	SUV	8264678	Middletown	2022
+C_CND_000002	1/2/2022	Gia	Male	1480000	C & M Motors Inc	Dodge	Durango	DoubleÃ‚Â Overhead Camshaft	Auto	Black	19000	60504-7114	SUV	6848189	Aurora	2022
+C_CND_000003	1/2/2022	Gianna	Male	1035000	Capitol KIA	Cadillac	Eldorado	Overhead Camshaft	Manual	Red	31500	38701-8047	Passenger	7298798	Greenville	2022
+C_CND_000004	1/2/2022	Giselle	Male	13500	Chrysler of Tri-Cities	Toyota	Celica	Overhead Camshaft	Manual	Pale White	14000	99301-3882	SUV	6257557	Pasco	2022
+<img width="32766" height="101" alt="image" src="https://github.com/user-attachments/assets/47856e20-ab12-45a3-9f06-ae902673be63" />
+
+
+
+First four Records:
+
+
+
 
 |TransactionID| Date	|MobileModel	|Brand	|Price	|UnitsSold	|TotalRevenue	|CustomerAge	|CustomerGender	|Location |PaymentMethod
 |----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|
