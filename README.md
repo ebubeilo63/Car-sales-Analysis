@@ -4,7 +4,7 @@
 **This is the sales report for Mobile Sales Product**
 
 ---
-
+ 
 ## Contents
 [Project Overview](#Project-Overview)  |  [Dataset Source](#Dataset-Source)  |  [Tools used](#Tools-Used)  |  [Table Outlay](#Table-Outlay)  |  [Query Language](#Query-Language)  |  [Visuaization](#Visualization) 
 
