@@ -76,25 +76,33 @@ SELECT COUNT (DISTINCT Body_Style) AS Num_of_BodyStyle FROM [dbo].[CarDataCSV];
 ## Visualization
 ### Pivot Tables
 
+<img width="1231" height="431" alt="Pivot Table" src="https://github.com/user-attachments/assets/761c96ff-2806-4611-bdfe-394a54399b7d" />
 
 ### Charts
 
+<img width="1438" height="574" alt="Pivot Chat" src="https://github.com/user-attachments/assets/9fd7bfdb-704e-40bd-a3fe-91c57aa441b4" />
 
 ### PowerBI Dashboard
 
+<img width="1523" height="851" alt="PowerBI Dashboard" src="https://github.com/user-attachments/assets/782f00cd-be69-4126-a9c8-7e52c3afd94b" />
 
-### PowerBI Single Visual
+### PowerBI Single Visuals
 
-#### Total Sales By customers
+#### Price Segmentation
 
+<img width="1516" height="846" alt="Price Segmentation" src="https://github.com/user-attachments/assets/c6026eda-22c4-457f-add4-c5a2db4f7ab0" />
 
+#### Income Category
 
-#### Total Sales By Age Category
+<img width="1511" height="847" alt="Income Category" src="https://github.com/user-attachments/assets/d85be75d-05a6-4784-a860-69995006f5f9" />
 
+#### Customer Location
 
+<img width="1515" height="845" alt="Customer Location" src="https://github.com/user-attachments/assets/63add637-494b-47e2-a1ad-1ff26fdc4308" />
 
-#### Total Sales By Level of Preferred Payment Method, and Customer Gender
+### SQL Segmentation
 
+<img width="1461" height="780" alt="SQL Segmntation" src="https://github.com/user-attachments/assets/6eb16077-ac0e-4cf0-bffb-a5ee7fcc5ff4" />
 
 
 [View_my_Linkedin Profile](https://www.linkedin.com/in/ebube-ilo/)
