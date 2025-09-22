@@ -23,30 +23,18 @@ www.kaggle.com/dataset
 
 ## Table Outlay:
 
-|Car_id	Date	|Customer Name	|Gender	|Annual Income	|Dealer_Name	|Company	Model	|Engine	|Transmission	|Color	|Price ($)	|Dealer_No 	|Body Style	|Phone	|Dealer_Region	|Year|
-
-C_CND_000001	1/2/2022	Geraldine	Male	13500	Buddy Storbeck's Diesel Service Inc	Ford	Expedition	DoubleÃ‚Â Overhead Camshaft	Auto	Black	26000	06457-3834	SUV	8264678	Middletown	2022
-C_CND_000002	1/2/2022	Gia	Male	1480000	C & M Motors Inc	Dodge	Durango	DoubleÃ‚Â Overhead Camshaft	Auto	Black	19000	60504-7114	SUV	6848189	Aurora	2022
-C_CND_000003	1/2/2022	Gianna	Male	1035000	Capitol KIA	Cadillac	Eldorado	Overhead Camshaft	Manual	Red	31500	38701-8047	Passenger	7298798	Greenville	2022
-C_CND_000004	1/2/2022	Giselle	Male	13500	Chrysler of Tri-Cities	Toyota	Celica	Overhead Camshaft	Manual	Pale White	14000	99301-3882	SUV	6257557	Pasco	2022
-<img width="32766" height="101" alt="image" src="https://github.com/user-attachments/assets/47856e20-ab12-45a3-9f06-ae902673be63" />
-
-
-
 First four Records:
 
+|Car_id	Date	|Customer Name	|Gender	|Annual Income	|Dealer_Name	|Company	Model	|Engine	|Transmission	|Color	|Price ($)	|Dealer_No 	|Body Style	|Phone	|Dealer_Region	|Year|
+|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|
+|C_CND_000001	|1/2/2022	|Geraldine	|Male	|13500	|Buddy Storbeck's Diesel Service Inc	|Ford	|Expedition	|DoubleÃ‚Â Overhead Camshaft	|Auto	|Black	|26000	|06457-3834	|SUV	|8264678	|Middletown	|2022|
+|C_CND_000002	|1/2/2022	|Gia	|Male	|1480000	|C & M Motors Inc	|Dodge	|Durango	|DoubleÃ‚Â Overhead Camshaft	|Auto	|Black	|19000	|60504-7114	|SUV	|6848189	|Aurora	|2022|
+|C_CND_000003	|1/2/2022	|Gianna	|Male	|1035000	|Capitol KIA	|Cadillac	|Eldorado	|Overhead Camshaft	|Manual	|Red	|31500	|38701-8047	|Passenger	|7298798	|Greenville	|2022|
+|C_CND_000004	|1/2/2022	|Giselle	|Male	|13500	|Chrysler of Tri-Cities	|Toyota	|Celica	|Overhead Camshaft	|Manual	|Pale White	|14000	|99301-3882	|SUV	|6257557	|Pasco	|2022|
 
-
-
-|TransactionID| Date	|MobileModel	|Brand	|Price	|UnitsSold	|TotalRevenue	|CustomerAge	|CustomerGender	|Location |PaymentMethod
-|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|
-|79397f68-61ed-4ea8-bcb2-f918d4e6c05b	|1/6/2024	|direction	|Green Inc	|1196.95	|85	|28002.8	|32	|Female	|Port Erik	|Online|
-|4f87d114-f522-4ead-93e3-f336402df6aa	|4/5/2024	|right	|Thomas-Thompson	|1010.34	|64	|2378.82	|55	|Female	|East Linda	|Credit Card|
-|6750b7d6-dcc5-48c5-a76a-b6fc9d540fe1	|2/13/2024	|summer	|Sanchez-Williams	|400.8	|95	|31322.56	|57	|Male	|East Angelicastad	|Online|
-|7da7de95-f772-4cc2-bce0-b0873f98233e	|4/17/2024	|keep	|Greer and Sons	|338.6	|79	|31159.75	|46	|Other	|East Kevin	|Cash|
 
 ## Query Language
-Some of teh query languages to retrieve records are displayed here
+Some of the query languages to retrieve records are displayed here
 
 ```SQL
 
@@ -88,29 +76,26 @@ SELECT COUNT (DISTINCT Body_Style) AS Num_of_BodyStyle FROM [dbo].[CarDataCSV];
 ## Visualization
 ### Pivot Tables
 
-<img width="1316" height="385" alt="Screenshot 2025-09-20 034011" src="https://github.com/user-attachments/assets/0df6e9e7-d171-4d55-8b45-3e83bf16e2c3" />
 
 ### Charts
 
-<img width="1793" height="678" alt="Screenshot 2025-09-20 033735" src="https://github.com/user-attachments/assets/3949c77f-7a5f-4e1f-a85c-60aaf20fa5c7" />
 
 ### PowerBI Dashboard
 
-<img width="1397" height="764" alt="Screenshot 2025-09-07 211709" src="https://github.com/user-attachments/assets/02cad351-77cc-48d0-bdc0-a6bdeabd0f08" />
 
 ### PowerBI Single Visual
 
 #### Total Sales By customers
 
-<img width="1397" height="785" alt="Screenshot 2025-09-07 211651" src="https://github.com/user-attachments/assets/a1738abb-0529-4736-b76d-fe3807711c28" />
+
 
 #### Total Sales By Age Category
 
-<img width="1400" height="782" alt="Screenshot 2025-09-07 211601" src="https://github.com/user-attachments/assets/f7a9fd21-e896-4e70-a96d-651ed384b185" />
+
 
 #### Total Sales By Level of Preferred Payment Method, and Customer Gender
 
-<img width="1399" height="788" alt="Screenshot 2025-09-07 211627" src="https://github.com/user-attachments/assets/8ba5adc9-5075-421b-a6be-4638d4c4b902" />
+
 
 [View_my_Linkedin Profile](https://www.linkedin.com/in/ebube-ilo/)
 
