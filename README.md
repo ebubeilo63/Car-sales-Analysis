@@ -1,7 +1,7 @@
-# Mobile-Sales-Analysis
+# Car-Sales-Analysis
 
 ## Overview:
-**_This is a Car Sales aAalyis Report_**
+**_The goal of this project was to analyze mobile phone sales data to uncover trends in pricing, brand performance, and customer preferences._**
 
 ---
  
@@ -10,7 +10,7 @@
 
 ---
 ## Project Overview
-> >This project analyzes the sales of acrs to uncover the insights on sales distribution by various attributes such as Brands, Customer Gender and price. Using Pivot tables, I explored metrics like total sales by Gender, average income of buyers, gender distribution and overall revenue. This analysis helps to understand the key factors driving sales in the dataset provided.
+> >This project analyzes the sales of cars to uncover the insights on sales distribution by various attributes such as Brands, Customer Gender and price. Using Pivot tables, I explored metrics like total sales by Year & Region, Transmission & Gender, Engine, Body Style and overall revenue. This analysis helps to understand the key factors driving sales in the dataset provided.
 
 ##  Dataset Source  
 www.kaggle.com/dataset
